@@ -21,5 +21,6 @@
 #include <behaviors/macros.dtsi>
 #include <behaviors/dynamic_macro.dtsi>
 #include <behaviors/mouse_key_press.dtsi>
+#include <behaviors/mouse_keys.dtsi>
 #include <behaviors/soft_off.dtsi>
 #include <behaviors/studio_unlock.dtsi>
